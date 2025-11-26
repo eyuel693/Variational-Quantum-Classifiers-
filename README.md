@@ -5,7 +5,7 @@ This project implements a **Variational Quantum Classifier (VQC)** to classify p
 
 ---
 
-## ** Project Overview**
+## Project Overview
 
 The goal is to classify patient data into **low-risk** and **high-risk** categories using a quantum-enhanced model.
 The workflow includes:
@@ -18,7 +18,7 @@ The workflow includes:
 
 ---
 
-## ** Key Components**
+## Key Components
 
 ### **1. Data Preprocessing**
 
@@ -49,7 +49,7 @@ The workflow includes:
 
 ---
 
-## ** Results Summary**
+## Results Summary
 
 * **Loss decreases quickly** → effective optimization
 * **Validation accuracy stabilizes around 83–84%**
@@ -59,7 +59,7 @@ The workflow includes:
 
 ---
 
-## ** Visualizations**
+##  Visualizations
 
 * Loss & accuracy curves
 * Decision boundary heatmap
@@ -68,7 +68,7 @@ The workflow includes:
 
 ---
 
-## ** Technologies Used**
+## Technologies Use
 
 * **PennyLane**
 * **PyTorch**
